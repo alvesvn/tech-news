@@ -19,4 +19,4 @@ Projetos realizados durante a minha formação em desenvolvimento full-stack, on
 
 ## Visit the web pages
 
-<a href="https://tech-news-omega.vercel.app/"><img src="https://github.com/alvesvn/travelgram/assets/96539606/8946518d-3154-4375-a4a9-112774e4057e" alt="Pagina web de viagens"/></a>
+<a href="https://tech-news-omega.vercel.app/"><img src="https://github.com/alvesvn/tech-news/assets/96539606/b1e5149b-f113-40ca-a27e-f30365a2a261" alt="Pagina web de viagens"/></a>
