@@ -17,6 +17,6 @@ Projeto realizado durante a minha formação em desenvolvimento full-stack, onde
 - Aplicação de estilos CSS para formatação do layout.
 - Inclusão de fontes e cores personalizadas.
 
-## Visit the web pages
+## Visit the web page
 
 <a href="https://tech-news-omega.vercel.app/"><img src="https://github.com/alvesvn/tech-news/assets/96539606/b1e5149b-f113-40ca-a27e-f30365a2a261" alt="Pagina web de viagens"/></a>
